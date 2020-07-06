@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15605" started-at="2020-06-28T13:26:24 BST" finished-at="2020-06-28T13:26:40 BST">
+    <groups>
+    </groups>
+    <test name="on chrome" duration-ms="12400" started-at="2020-06-28T13:26:24 BST" finished-at="2020-06-28T13:26:36 BST">
+      <class name="com.ebanking.master.SlGrid">
+        <test-method status="PASS" signature="Grd(java.lang.String)[pri:0, instance:com.ebanking.master.SlGrid@1f7030a6]" name="Grd" duration-ms="12321" started-at="2020-06-28T13:26:24 BST" finished-at="2020-06-28T13:26:36 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Grd -->
+      </class> <!-- com.ebanking.master.SlGrid -->
+    </test> <!-- on chrome -->
+    <test name="on firefox" duration-ms="15605" started-at="2020-06-28T13:26:24 BST" finished-at="2020-06-28T13:26:40 BST">
+      <class name="com.ebanking.master.SlGrid">
+        <test-method status="PASS" signature="Grd(java.lang.String)[pri:0, instance:com.ebanking.master.SlGrid@3b084709]" name="Grd" duration-ms="15536" started-at="2020-06-28T13:26:24 BST" finished-at="2020-06-28T13:26:40 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Grd -->
+      </class> <!-- com.ebanking.master.SlGrid -->
+    </test> <!-- on firefox -->
+  </suite> <!-- Suite -->
+</testng-results>

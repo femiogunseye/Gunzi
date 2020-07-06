@@ -1,0 +1,5 @@
+Rolename###RoleDecs###RoleType###Results
+CashierA###Teller###E###
+CashierB###TellerSupervisor###E###
+CashierC###TellerManager###E###
+CashierD###TellerDirector###E###

@@ -1,0 +1,5 @@
+Rolename###RoleDecs###RoleType###Results
+CashierA###Teller###E###$$$$Role Already existed
+CashierB###TellerSupervisor###E###$$$$Role Already existed
+CashierC###TellerManager###E###$$$$Role Already existed
+CashierD###TellerDirector###E###$$$$Role Already existed
